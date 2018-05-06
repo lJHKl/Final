@@ -1,0 +1,7 @@
+c:\users\куаныш\source\repos\second\second\bin\Debug\second.exe.config
+c:\users\куаныш\source\repos\second\second\bin\Debug\second.exe
+c:\users\куаныш\source\repos\second\second\bin\Debug\second.pdb
+c:\users\куаныш\source\repos\second\second\obj\Debug\second.csproj.CoreCompileInputs.cache
+c:\users\куаныш\source\repos\second\second\obj\Debug\second.exe
+c:\users\куаныш\source\repos\second\second\obj\Debug\second.pdb
+c:\users\куаныш\source\repos\second\second\obj\Debug\second.csprojResolveAssemblyReference.cache
